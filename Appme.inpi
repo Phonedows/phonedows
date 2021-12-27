@@ -1,0 +1,5 @@
+doctype plixfile
+Dim rocketship As New me.load
+statedtext:"miami"\
+me.close()
+rocketship.applicationload
